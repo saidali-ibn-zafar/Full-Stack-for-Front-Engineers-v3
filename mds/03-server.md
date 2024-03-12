@@ -21,4 +21,10 @@ console.log(`Server started on port ${PORT}`);
 
 ```
 
-....
+- - - - - 
+
+- `virtualization` - dividing a servers resources into virtual computers.
+
+- `virtual machine` - digital version a physical computer
+
+- `VPS` - virtual private server
