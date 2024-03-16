@@ -30,4 +30,8 @@
 
 `201` just means created successfully. However, most people just use `200`, and just means, okay.
 
-  
+- - - - - 
+
+`Microsevices` - Software architecture of loosely connected services.
+
+`Monolith` - Software architecture of tightly coupled services
